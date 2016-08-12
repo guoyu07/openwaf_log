@@ -11,15 +11,12 @@ Synopsis
 ```
 
 
-Configuration Directives
-================================
-* [new](#new)
-* [log](#log)
-
+Directives
+==========
 new
 ---
-**syntax:** *logger = new(config)*
+**syntax:** *logger = new(self, config)*
 
 log
 ---
-**syntax:** *logger = log(self, events)*
+**syntax:** *logger:log(events)*
