@@ -153,6 +153,8 @@ Modules Configuration Directives
 }
 ```
 
+变量名称详见规则引擎模块[twaf_secrules](#https://github.com/titansec/openwaf_rule_engine#variables)
+
 ```
     #日志格式举例
         #JSON格式
